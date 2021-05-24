@@ -80,3 +80,10 @@
 // document.write("<div>","Type: string"+"</div>");
 // document.write("<div>","Value: "+num+"</div>");
 // document.write("<div>","Type: Number ","</div>");
+
+// Assignment # 10
+
+// var user = prompt("Enter Your Name in small letters");
+
+// document.write("<div>","User input: "+user+"</div>");
+// document.write("<div>","Uppercase: "+user.toUpperCase()+"</div>");
