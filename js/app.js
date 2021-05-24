@@ -35,3 +35,12 @@
 
 // document.write("<div>"+"String : "+ a+"</div>");
 // document.write("<div>"+" Charactor at Index 3 : "+ a.charAt("3")+"</div>");
+
+
+// Assignment # 6
+
+// var user1 = prompt ("Enter Your First Name");
+// var user2 = prompt ("Enter Your Last Name");
+// var fullName = user1.concat(" "+user2);
+
+// alert ("Hello "+fullName+ " Welcome to world for Developing website" );
