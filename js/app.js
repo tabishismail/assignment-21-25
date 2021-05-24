@@ -44,3 +44,13 @@
 // var fullName = user1.concat(" "+user2);
 
 // alert ("Hello "+fullName+ " Welcome to world for Developing website" );
+
+// Assignment # 7
+
+// var oldName = "Hyderabad";
+
+// var newName=oldName.indexOf("Hyder");
+
+// if(newName !== -1){
+//     document.write(oldName.slice(0 ,newName) + "Islam"+ oldName.slice(newName+5));    
+// }
