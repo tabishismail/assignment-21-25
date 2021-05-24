@@ -28,3 +28,10 @@
 
 // document.write("<div>"+"String : "+ a+"</div>");
 // document.write("<div>"+" Last Index of l: "+ a.lastIndexOf("l")+"</div>");
+
+// Assignment # 5
+
+// var a = "Pakistani";
+
+// document.write("<div>"+"String : "+ a+"</div>");
+// document.write("<div>"+" Charactor at Index 3 : "+ a.charAt("3")+"</div>");
