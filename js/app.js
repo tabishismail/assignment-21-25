@@ -10,7 +10,14 @@
 
 // Assignment # 2
 
-var user = prompt("Enter Your Favourite Mobile Model");
+// var user = prompt("Enter Your Favourite Mobile Model");
 
-document.write("<div>"+"My Favourite Mobile model is : "+ user+"</div>");
-document.write("<div>"+"Length of string :" + user.length +"</div>");
+// document.write("<div>"+"My Favourite Mobile model is : "+ user+"</div>");
+// document.write("<div>"+"Length of string :" + user.length +"</div>");
+
+// Assignment # 3
+
+// var a = "Pakistan";
+
+// document.write("<div>"+"String : "+ a+"</div>");
+// document.write("<div>"+"Index of n : "+ a.indexOf("n")+"</div>");
