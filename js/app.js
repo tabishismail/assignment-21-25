@@ -71,3 +71,12 @@
 // if(flag ===true){
 //     console.log(message);
 // }
+
+// Assignment # 9
+
+// var string = "472";
+// var num = +string;
+// document.write("<div>","Value: "+string+"</div>");
+// document.write("<div>","Type: string"+"</div>");
+// document.write("<div>","Value: "+num+"</div>");
+// document.write("<div>","Type: Number ","</div>");
