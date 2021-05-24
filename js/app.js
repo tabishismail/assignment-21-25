@@ -21,3 +21,10 @@
 
 // document.write("<div>"+"String : "+ a+"</div>");
 // document.write("<div>"+"Index of n : "+ a.indexOf("n")+"</div>");
+
+// Assignment # 4
+
+// var a = "Hello World";
+
+// document.write("<div>"+"String : "+ a+"</div>");
+// document.write("<div>"+" Last Index of l: "+ a.lastIndexOf("l")+"</div>");
