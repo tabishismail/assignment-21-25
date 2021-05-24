@@ -82,8 +82,14 @@
 // document.write("<div>","Type: Number ","</div>");
 
 // Assignment # 10
+// var user = prompt("Enter Your Name in small letters");
+// document.write("<div>","User input: "+user+"</div>");
+// document.write("<div>","User input: "+user.toUpperCase()+"</div>");
+
+// Assignment # 11
 
 // var user = prompt("Enter Your Name in small letters");
+// var user1 = user.slice(0,1).toUpperCase()+user.slice(1);
 
 // document.write("<div>","User input: "+user+"</div>");
-// document.write("<div>","Uppercase: "+user.toUpperCase()+"</div>");
+// document.write("<div>","Title Case: "+user1+"</div>");
