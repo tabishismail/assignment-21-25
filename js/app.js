@@ -52,5 +52,22 @@
 // var newName=oldName.indexOf("Hyder");
 
 // if(newName !== -1){
-//     document.write(oldName.slice(0 ,newName) + "Islam"+ oldName.slice(newName+5));    
+//     document.write("<div>"+ "City: "+oldName+ "</div>");
+//     document.write("<div>"+"After replacement: "+ oldName.slice(0 ,newName) + "Islam"+ oldName.slice(newName+5)+"</div>");    
+// }
+
+// Assignment # 8
+
+// var message = "Ali and Sami are best friends. They play cricket and football together.";
+// var flag =false;
+
+// for(var i=0; i<message.length; i++){
+//     if (message.slice(i, i + 3) === "and") {
+//         message = message.slice(0, i) + "&" + message.slice(i + 3);
+//         flag = true;
+        
+//     }
+// }
+// if(flag ===true){
+//     console.log(message);
 // }
